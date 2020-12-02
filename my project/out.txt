@@ -1,0 +1,53 @@
+/a is already declared
+b is already declared
+c is already declared
+
+valid declaration
+
+(a) Value of the variable: 7	
+
+(b) Value of the variable: 2	
+
+(c) Value of the variable: 3	
+d not declared yet
+inc: 9
+
+value of expression: 9
+dec: 7
+
+value of expression: 7
+not: 0
+
+value of expression: 0
+
+value of expression: 13
+
+value of expression: 23
+
+condition value zero in IF block
+dec: 7
+
+value of expression in IF: 7
+
+value of expression in ELSE: 13
+
+value of expression middle ELSE: 10
+
+value of expression in first IF: 15
+
+value of expression in ELIF: 7
+for loop statement
+for loop statement
+for loop statement
+for loop statement
+While LOOP: 
+value of the expression: 6
+
+Case No : 1  and Result :  6
+SWITCH case.
+multiple_line_comment
+single line comment
+Function Declared
+
+value of expression: 13
+syntax error
